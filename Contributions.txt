@@ -1,0 +1,12 @@
+What is an Algorithm?
+
+A good algorithm can:
+- take one or more inputs
+- perform some internal calculations or data manipulations
+- return one or more outputs
+- have minimal side effects.
+
+We want your work to be readable by others; therefore, we encourage you to note the following:
+
+- Please focus hard on naming of functions, classes, and variables. This will help the readers understand easily.
+- please avoid single letter names of variables (except iterators)
